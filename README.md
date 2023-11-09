@@ -1,0 +1,3 @@
+# SQLite_DataBase
+This repository contains a console-based Library Management System implemented in Python, leveraging the power of SQLite for efficient database management.
+The system provides an interactive interface for users to perform various library-related operations, including adding new books, searching for books by title, registering loans and returns, and displaying a comprehensive list of all loans. The program is designed with error handling to ensure stability, and the data persists between sessions. This project serves as a practical application of SQLite database integration in a real-world scenario, enhancing practical skills in Python programming and database management.
